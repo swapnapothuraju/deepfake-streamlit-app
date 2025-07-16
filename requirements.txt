@@ -1,6 +1,7 @@
+--only-binary :all:
 tensorflow==2.18.0
 streamlit==1.25.0
-pillow==9.5.0
+pillow==9.4.0
 numpy
 altair
 
