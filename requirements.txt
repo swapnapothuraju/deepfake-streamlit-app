@@ -1,6 +1,6 @@
 tensorflow==2.18.0
 streamlit==1.25.0
-pillow
+pillow==9.5.0
 numpy
 altair
 
