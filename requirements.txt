@@ -3,6 +3,7 @@ protobuf==3.19.6
 streamlit==1.18.0
 pillow
 numpy
+altair
 
 
 
