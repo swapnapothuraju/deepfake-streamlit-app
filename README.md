@@ -18,9 +18,6 @@ A Streamlit web application that detects whether a face image is REAL or FAKE us
 - `deepfake_detector_model.keras` – Your trained model
 - `README.md` – Project info
 
-## 📦 Deployment
-Deploy this app on [Streamlit Cloud](https://streamlit.io/cloud).
 
----
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Pothuraju Swapna
